@@ -10,7 +10,7 @@ Tento repozitár slúži ako zoznam **lokalizovaných** balíčkov, jazykových 
 # Prispievanie
 Ak chceš pridať odkaz na akýkoľvek balíček (...čokoľvek), sprav *fork* z tohoto repozitára, vykonaj potrebné úpravy. Neboj sa spraviť *commit* a *pull-request*.
 
-**Prispievať môžeš taktiež do jednotlivých repozitárov. **
+**Prispievať môžeš taktiež do jednotlivých repozitárov.**
 
 Čím aktívnejší budeme, tým viac času si pri práci ušetríme! :)
 
