@@ -4,7 +4,24 @@ Tento repozitár slúži ako zoznam **lokalizovaných** balíčkov, jazykových 
 
 <br/>
 
-===
+
+
+
+
+## Slovenská lokalizácia   
+
+link: [GitHub repo](https://github.com/Andreyco/laravel4-lang-sk)  
+<br/>
+**Obsahuje lokalizované sú súbory:**
+- pagination.php
+- reminders.php  
+- validation.php
+
+Veľmi rád príjmem pull-requesty na koreckie, od jazykovo zdatnejších ľudí :)
+
+
+
+
 
 <br/>
 # Prispievanie
